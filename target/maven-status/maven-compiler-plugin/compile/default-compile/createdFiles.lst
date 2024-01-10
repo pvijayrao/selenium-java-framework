@@ -1,0 +1,10 @@
+test/pageActions/HomePageActions.class
+test/pageObjects/HRMHomePage.class
+test/HRMTest.class
+test/BaseTest.class
+test/pageObjects/AdminPage.class
+test/pageActions/AdminActions.class
+test/pageObjects/PimPage.class
+test/pageActions/PIMActions.class
+test/utils/TestUtils.class
+test/utils/TestListener.class

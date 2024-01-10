@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="HRMTestSuite" verbose="1" preserve-order="true" parallel="false">
+  <listeners>
+    <listener class-name="test.utils.TestListener"/>
+  </listeners>
+  <test name="Orange HRM Tests">
+    <classes>
+      <class name="test.HRMTest"/>
+    </classes>
+  </test>
+</suite>

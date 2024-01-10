@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-10T10:34:27Z" name="HRMTestSuite" finished-at="2024-01-10T10:34:50Z" duration-ms="22943">
+    <groups>
+    </groups>
+    <test started-at="2024-01-10T10:34:27Z" name="Orange HRM Tests" finished-at="2024-01-10T10:34:50Z" duration-ms="22943">
+      <class name="test.HRMTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.HRMTest@68fa0ba8]" started-at="2024-01-10T11:34:27Z" name="setUp" finished-at="2024-01-10T11:34:31Z" duration-ms="4363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddUser()[pri:0, instance:test.HRMTest@68fa0ba8]" started-at="2024-01-10T11:34:31Z" name="testAddUser" finished-at="2024-01-10T11:34:50Z" duration-ms="18450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.HRMTest@68fa0ba8]" started-at="2024-01-10T11:34:50Z" name="tearDown" finished-at="2024-01-10T11:34:50Z" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.HRMTest -->
+    </test> <!-- Orange HRM Tests -->
+  </suite> <!-- HRMTestSuite -->
+</testng-results>
